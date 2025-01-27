@@ -10,8 +10,8 @@ Hoping to cover all these topics
 
 ### **Data Structures**
 - **Linear Data Structures**:
-  - Arrays
-  - Linked Lists (Singly, Doubly, Circular)
+  - [Arrays](https://github.com/shivesh235/dsa_prep/blob/main/Arrays.md)
+  - [Linked Lists (Singly, Doubly, Circular)](https://github.com/shivesh235/dsa_prep/blob/main/Linked_Lists.md)
   - Stacks
   - Queues (Standard, Deques, Priority Queues)
 
@@ -24,7 +24,7 @@ Hoping to cover all these topics
 ### **Algorithms**
 - **Sorting Algorithms**:
   - Bubble Sort
-  - Selection Sort
+  - [Selection Sort](https://github.com/shivesh235/dsa_prep/blob/main/Selection%20Sort.md)
   - Insertion Sort
   - Merge Sort
   - Quick Sort
@@ -35,8 +35,8 @@ Hoping to cover all these topics
   - Binary Search
 
 - **Graph Algorithms**:
-  - Depth-First Search (DFS)
-  - Breadth-First Search (BFS)
+  - [Depth-First Search (DFS)](https://github.com/shivesh235/dsa_prep/blob/main/DFS.md)
+  - [Breadth-First Search (BFS)](https://github.com/shivesh235/dsa_prep/blob/main/BFS.md)
   - Dijkstra's Algorithm
   - Kruskal’s and Prim’s Algorithms
 
