@@ -1,15 +1,3 @@
-# Section 1
-
-This is the content of Section 1.
-
-[Go to Mathematics and Statistics](#2-mathematics-and-statistics)
-
-# Section 2
-
-This is the content of Section 2.
-
-
-
 # Essential skills for an AI engineer
 
 ---
@@ -25,7 +13,7 @@ This is the content of Section 2.
 
 ---
 
-### 2. **Mathematics and Statistics**
+### 2. [Mathematics and Statistics](#2-mathematics-and-statistics)
    - **Linear Algebra**: Foundation for understanding neural networks (e.g., matrix operations, eigenvalues).
    - **Calculus**: Required for understanding optimization algorithms like gradient descent.
    - **Probability and Statistics**: Essential for working with data distributions, hypothesis testing, and Bayesian inference.
