@@ -1485,3 +1485,12 @@
 - Exploring career opportunities through professional connections.
 
 ---
+
+**Notes**:
+1. Hacker News - https://news.ycombinator.com/jobs
+2. Learn in Public by Swyx - https://www.swyx.io/learn-in-public
+3. You Don't Really Need Another MOOC by Eugene Yan - https://eugeneyan.com/writing/you-dont-need-another-mooc/
+4. Start the job before you have it by Daniel Bourke - [link](https://www.mrdbourke.com/how-can-a-beginner-data-scientist-like-me-gain-experience/)
+5. What we look for in a resume by Chip Huyen - [link](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
+6. Machine Learning Interviews Book by Chip Huyen - https://huyenchip.com/ml-interviews-book/
+7. So good they can't ignore you by Cal Newport -
