@@ -54,6 +54,13 @@ Hoping to cover all these topics
   - Backtracking
   - Recursion
 
+### **Questions**
+- [Duplicate Elelments](https://github.com/shivesh235/dsa_prep/blob/main/Duplicate%20elements.md)
+- [Grid Shortest Path](https://github.com/shivesh235/dsa_prep/blob/main/Grid_shortest_path.md)
+- [Kadane's Algo](https://github.com/shivesh235/dsa_prep/blob/main/Kadane%20Algo.md)
+- [Product Except Self](https://github.com/shivesh235/dsa_prep/blob/main/Product%20except%20self.md)
+- [Sum of Binary Integers](https://github.com/shivesh235/dsa_prep/blob/main/Sum%20of%20two%20n-bit%20binary%20integers.md)
+
 ### **Utilities**
 - Time Complexity and Space Complexity Analysis
 - Visualization Tools (where applicable)
